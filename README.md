@@ -1,3 +1,3 @@
-# Accelerating-Mandelbrot-Fractal-on-FPGA
+# Accelerating the generation of Mandelbrot Fractals on an FPGA
 
-Hardware acceleration of mandelbrot fractal generation on PYNQ-Z1 FPGA as part of EE5332 IIT Madras course project.
+EE5332 Course Project: Hardware Acceleration of Mandelbrot Fractal Image Generation on a PYNQ-Z1 FPGA.
